@@ -5,7 +5,7 @@
 ## I'm a Student, Web Developer, Friend and Web Geek!
 
 - 🔭 I’m currently working on [Pre Science Decision Solutions][company_website]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything I can 🤣
 - 🥅 2020 Goals: Learn new technology and Contribute to Open-Source Projects.
 - ⚡ Fun fact: I love to see Anime and learn Inter-national and National News.
 
